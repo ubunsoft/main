@@ -1,2 +1,1 @@
-# Ubunsoft Corporation 
-
+# Ubunsoft Inc.
